@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm Shivam
 
-<!--
-**shivamksah369-hub/shivamksah369-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate aspiring developer learning how to build software and code.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Skills
+* 💻 **Languages I want to learn:** Python, JavaScript, HTML & CSS
+* 🚀 **Tools I am exploring:** GitHub, Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 My GitHub Journey
+* 🎯 **Current Goal:** Build my very first coding project.
+* 📚 **Learning Style:** Writing clean notes and daily code practice.
+
+---
+📫 Feel free to check out my upcoming repositories as I start building!
+
